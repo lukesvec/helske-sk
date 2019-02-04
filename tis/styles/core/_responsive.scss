@@ -1,0 +1,165 @@
+
+@media (min-width: 768px) and (max-width: 991px) {
+  body {
+    overflow-x: hidden;
+  }
+  
+}
+
+
+
+@media (max-width: 991px) {
+	.swiper-wrapper .social {
+		display: none;
+	}
+	.foot-social {
+		display: block;
+	}
+	
+	.foot-2 {
+		text-align: center;
+		.pull-left, .pull-right {
+			float: none;
+			width: 100%;
+			padding: 0px;
+		}
+	}
+	.main-foot .foot-2 ul li {
+		padding: 0px 25px;
+	}
+	
+	.hp-quote .item {
+		padding: 0px 25px;
+		margin-bottom: 25px;
+	}
+	
+/*
+	.hp-quote {
+		-webkit-overflow-scrolling: touch;
+		display: flex;
+		flex-wrap: nowrap;
+		overflow-x: auto;
+		overflow-y: hidden;
+	}
+	.hp-quote .item {
+		flex: 0 0 auto;
+		min-width: 300px;
+		margin-bottom: 25px;
+	}
+*/
+}
+
+
+
+@media (max-width: 768px) {
+  body {
+    overflow-x: hidden;
+  }
+  .container-fluid {
+    max-width: 100%;
+  }
+  
+  .main-foot .foot-2 ul li {
+  	width: 100%;
+  	padding: 5px 0;
+  }
+  
+  .hp-advantages .item {
+	  margin-top: 60px;
+	  &:first-of-type {
+		  margin-top: 0px;
+	  }
+  }
+  
+}
+
+
+
+@media (max-width: 576px) {
+  .hp-item-btn1 {
+	  display: none;
+  }
+  .hp-item-more-a {
+	  display: block !important;
+  }
+  
+  .hp-itembox {
+	  .istext {
+		  order:1;
+	  }
+	  .isimg {
+		  order:2;
+	  }
+	  .hp-item-more-a {
+		  order: 3;
+	  }
+  }
+}
+
+
+
+@media (max-width: 480px) {
+ 
+}
+
+
+
+/* Container-alt */
+@media (min-width: 768px) {
+  .container-alt {
+    width: 750px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container-alt {
+    width: 970px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container-alt {
+    width: 1170px;
+  }
+}
+@media (max-width: 419px) {
+  .hidden-xxs {
+    display: none;
+  }
+  .pro-user-name {
+    display: none;
+  }
+  .topbar-left {
+    width: 70px !important;
+  }
+  .page-title {
+    font-size: 15px;
+    max-width: 250px;
+    white-space: nowrap;
+  }
+
+  .editable-responsive {
+    overflow-x: auto;
+  }
+
+  .page-title-box .breadcrumb {
+    display: none;
+  }
+
+  .navbar-nav .open .dropdown-menu {
+    margin-right: -20px;
+  }
+  .user-box .dropdown-menu {
+    margin-right: 0 !important;
+  }
+
+  .dropdown-lg {
+    width: 200px !important;
+  }
+  .user-list .user-list-item .icon,.user-list .user-list-item .avatar {
+    display: none;
+  }
+  .user-list .user-list-item .user-desc {
+    margin-left: 0;
+  }
+}

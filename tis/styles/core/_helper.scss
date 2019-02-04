@@ -1,0 +1,201 @@
+/* =============
+   Helper classes
+============= */
+
+.m-b-30 {
+  margin-bottom: 30px;
+}
+
+.m-t-50 {
+  margin-top: 50px;
+}
+
+.m-t-100 {
+  margin-top: 100px;
+}
+
+@media (max-width: 767px) {
+  .mt-md-30 {
+    margin-top: 30px;
+  }
+}
+
+.p-l-r-10 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+.w-xs {
+  min-width: 80px;
+}
+.w-sm {
+  min-width: 95px;
+}
+.w-md {
+  min-width: 110px;
+}
+.w-lg {
+  min-width: 140px;
+}
+
+.center-page {
+  float: none !important;
+  margin: 0 auto !important;
+}
+
+.text-overflow {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: block;
+  width: 100%;
+  overflow: hidden;
+}
+
+.pull-in {
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.font-400 {
+  font-weight: 400;
+}
+.font-600 {
+  font-weight: 600;
+}
+.font-700 {
+  font-weight: 700;
+}
+.font-800 {
+  font-weight: 800;
+}
+.font-normal {
+  font-weight: normal;
+}
+.font-light {
+  font-weight: 300;
+}
+
+.font-13 {
+  font-size: 13px !important;
+}
+
+.font-14 {
+  font-size: 14px !important;
+}
+
+.font-15 {
+  font-size: 15px !important;
+}
+
+.font-16 {
+  font-size: 16px !important;
+}
+
+.font-18 {
+  font-size: 18px !important;
+}
+
+.font-extralarge {
+	font-size: 42px;
+	line-height: 100%;
+}
+.font-large {
+	font-size: 38px;
+}
+
+.bx-shadow {
+  box-shadow: $shadow;
+}
+
+.bx-shadow-lg {
+  box-shadow: $shadow-lg;
+}
+
+.bx-shadow-none {
+  box-shadow: none !important;
+}
+
+.thumb-sm {
+  height: 36px;
+  width: 36px;
+}
+.thumb-md {
+  height: 48px;
+  width: 48px;
+}
+.thumb-lg {
+  height: 88px;
+  width: 88px;
+}
+.thumb-xl {
+  height: 120px;
+  width: 120px;
+}
+
+// Slimscroll
+.slimScrollDiv {
+  height: auto !important;
+}
+
+/* Table type box */
+
+.table-box {
+  display: table;
+  height: 100%;
+  width: 100%;
+
+  .table-detail {
+    display: table-cell;
+    vertical-align: middle;
+  }
+}
+
+
+.clearfix:before, .clearfix:after {
+    content: "";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+
+.all-caps {
+	text-transform: uppercase;
+}
+.header-pad-base {
+	padding-top: 50px;
+}
+.text-custom {
+	color: $custom;
+}
+
+.btn.button-pad-more {
+	padding: 15px 45px;
+}
+.divider-smaller {
+	height: 2px;
+	width: 60px;
+	background: $custom;
+	margin: 25px auto;
+}
+.divider-small {
+	height: 2px;
+	width: 200px;
+	background: $custom;
+	margin: 25px auto;
+}
+.relative {
+	position: relative;
+}
+.image-fill {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
