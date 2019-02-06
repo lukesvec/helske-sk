@@ -78,15 +78,18 @@
 
   .close {
     position: absolute;
-    top: 15px;
-    right: 25px;
-    color: $light;
+    top: -25px;
+    right: 5px;
+    color: white;
   }
 }
 
 @media (max-width: 768px ) {
   .modal-demo {
     width: 100% !important;
+  }
+  .custom-modal-text iframe {
+	  width: calc(100vw - 90px);
   }
 }
 

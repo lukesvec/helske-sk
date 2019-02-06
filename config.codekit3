@@ -9,11 +9,193 @@
 	],
 "creatorBuild": "26667",
 "files": {
-	"\/homepage.html": {
+	"\/hlavni-stranka.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/homepage.html",
+		"oAP": "\/hlavni-stranka.php",
+		"oF": 0
+		},
+	"\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/index.php",
+		"oF": 0
+		},
+	"\/nano-coat-system.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/nano-coat-system.php",
+		"oF": 0
+		},
+	"\/nasi-partneri.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/nasi-partneri.php",
+		"oF": 0
+		},
+	"\/o-helske-2.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/o-helske-2.php",
+		"oF": 0
+		},
+	"\/o-helske.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/o-helske.php",
+		"oF": 0
+		},
+	"\/o-nas.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/o-nas.php",
+		"oF": 0
+		},
+	"\/parts\/element-advantage.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-advantage.php",
+		"oF": 0
+		},
+	"\/parts\/element-box-double.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-box-double.php",
+		"oF": 0
+		},
+	"\/parts\/element-quote-video.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-quote-video.php",
+		"oF": 0
+		},
+	"\/parts\/element-quote.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-quote.php",
+		"oF": 0
+		},
+	"\/parts\/element-section-basic-2.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-section-basic-2.php",
+		"oF": 0
+		},
+	"\/parts\/element-section-basic.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-section-basic.php",
+		"oF": 0
+		},
+	"\/parts\/element-section-list-product.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-section-list-product.php",
+		"oF": 0
+		},
+	"\/parts\/element-section-list-product2.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-section-list-product2.php",
+		"oF": 0
+		},
+	"\/parts\/element-section-list-product3.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-section-list-product3.php",
+		"oF": 0
+		},
+	"\/parts\/element-section.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-section.php",
+		"oF": 0
+		},
+	"\/parts\/element-typography.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-typography.php",
+		"oF": 0
+		},
+	"\/parts\/element-whitespace.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-whitespace.php",
+		"oF": 0
+		},
+	"\/parts\/footer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/footer.php",
+		"oF": 0
+		},
+	"\/parts\/header-navigation-home.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/header-navigation-home.php",
+		"oF": 0
+		},
+	"\/parts\/header-navigation-menu.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/header-navigation-menu.php",
+		"oF": 0
+		},
+	"\/parts\/header-navigation.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/header-navigation.php",
+		"oF": 0
+		},
+	"\/parts\/header.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/header.php",
+		"oF": 0
+		},
+	"\/parts\/home-slider.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/home-slider.php",
+		"oF": 0
+		},
+	"\/podminky.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/podminky.php",
+		"oF": 0
+		},
+	"\/pravni-upozorneni.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pravni-upozorneni.php",
 		"oF": 0
 		},
 	"\/storage\/imags\/foot-pre.svg": {
@@ -21,6 +203,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/storage\/imags\/foot-pre.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/storage\/imags\/header-alt.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/storage\/imags\/header-alt.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -183,6 +375,13 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/textova-stranka.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/textova-stranka.php",
+		"oF": 0
 		},
 	"\/tis\/iconics\/font-awesome\/fonts\/fontawesome-webfont.eot": {
 		"cB": 0,
@@ -1216,24 +1415,24 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/tis\/styles\/homepage.css": {
+	"\/tis\/styles\/custom.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/tis\/styles\/homepage-min.css",
+		"oAP": "\/tis\/styles\/custom-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/tis\/styles\/homepage.css.map": {
+	"\/tis\/styles\/custom.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/tis\/styles\/homepage.css.map",
+		"oAP": "\/tis\/styles\/custom.css.map",
 		"oF": 0
 		},
-	"\/tis\/styles\/homepage.scss": {
+	"\/tis\/styles\/custom.scss": {
 		"aP": 1,
 		"bl": 1,
 		"dP": 10,
@@ -1241,7 +1440,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/tis\/styles\/homepage.css",
+		"oAP": "\/tis\/styles\/custom.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
@@ -1260,7 +1459,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 0,
+	"alwaysUseExternalServer": 1,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
@@ -2651,7 +2850,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "helske-sk.app",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",

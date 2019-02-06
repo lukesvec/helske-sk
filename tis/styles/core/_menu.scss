@@ -52,6 +52,27 @@
 			line-height: 42px;
 		}
 	}
+	
+	&.alt {
+		background: url("/storage/imags/header-alt.svg") no-repeat;
+		background-position: left bottom;
+		background-size: cover;
+		height: 185px;
+		position: relative;
+		.nav span {
+			color: white;
+		}
+	}
+}
+
+
+@media (max-width: 1200px) {
+	.main-header.alt {
+		background-position-x: -125px;
+		.nav, .logo {
+			margin-top: 25px;
+		}
+	}
 }
 
 .menu-container {
@@ -79,6 +100,9 @@
 		&:first-of-type {
 			padding-bottom: 10px;
 			text-transform: uppercase;
+			a {
+				font-weight: 600;
+			}
 		}
 		& a:hover {
 			text-decoration: underline;
@@ -168,6 +192,9 @@
 			&:first-of-type {
 				padding-bottom: 5px;
 				text-transform: uppercase;
+				a {
+					font-weight: 600;
+				}
 			}
 			& a:hover {
 				text-decoration: underline;
