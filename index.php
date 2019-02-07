@@ -56,6 +56,7 @@
             <tr>
                 <th>#</th>
                 <th>Název</th>
+                <th>Odkaz</th>
             </tr>
             </thead>
             <tbody>
@@ -70,6 +71,7 @@
 				    <tr>
 		                <th scope="row">'.$counter.'</th>
 		                <td>'.$filename.'</td>
+		                <td><a href="preview.php?template='.$filename.'">Zobrazit prvek</a></td>
 		            </tr>
 				    ';
 				    $counter++;
