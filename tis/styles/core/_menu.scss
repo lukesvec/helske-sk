@@ -114,7 +114,7 @@
 		position: absolute;
 		top: 0px;
 		right: 15px;
-		
+		z-index: 9999 !important;
 		appearance: none;
 		border: none;
 		background: transparent;
@@ -265,5 +265,54 @@
 	}
 	.main-header.alt {
 		background-position-x: -100px;
+	}
+}
+
+
+.dropdown-language {
+	button {
+		appearance: normal;
+		border: 2px solid white;
+		color: white;
+		background: transparent;
+		width: 100%;
+		text-align: left;
+		img {
+			height: 18px;
+			width: 26px;
+			object-fit:cover;
+			position: relative;
+			top: -2px;
+			margin-right: 5px;
+		}
+	}
+	.dropdown-toggle::after {
+		float: right;
+		margin-top: 13px;
+	}
+	.dropdown-menu {
+		width: 100%;
+		border-radius: 0px;
+		background: transparent;
+		border: 2px solid white;
+		color: white;
+		padding: 0px;
+		img {
+			height: 18px;
+			position: relative;
+			top: -2px;
+			margin-right: 5px;
+			width: 24px;
+			object-fit:cover;
+		}
+		a {
+			color: white;
+		}
+	}
+	.dropdown-item {
+		padding: 5px 18px;
+	}
+	.dropdown-item:focus, .dropdown-item:hover {
+		background: lighten($custom,10%);
 	}
 }

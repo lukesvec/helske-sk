@@ -105,8 +105,8 @@
 <img src="/storage/imags/hp-section-bg.svg" alt="bg-section" class="ct-section-bg">
 
 
-<div class="row">
-	<div class="col-md-12">
+<div class="">
+	<div class="col-12">
 	    <div class="card-box m-t-50">
 	        
 	        <h3 class="font-extralarge font-light text-center m-t-50">Prosim, dajte nam vediet, s cim vam mozeme pomoct</h3>

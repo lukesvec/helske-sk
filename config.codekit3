@@ -338,6 +338,137 @@
 		"oAP": "\/produkt-detail.php",
 		"oF": 0
 		},
+	"\/storage\/favs\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 8784,
+		"oA": 0,
+		"oAP": "\/storage\/favs\/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/storage\/favs\/android-chrome-384x384.png": {
+		"ft": 32768,
+		"iS": 16349,
+		"oA": 0,
+		"oAP": "\/storage\/favs\/android-chrome-384x384.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/storage\/favs\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 8296,
+		"oA": 0,
+		"oAP": "\/storage\/favs\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/storage\/favs\/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/storage\/favs\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/storage\/favs\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 958,
+		"oA": 0,
+		"oAP": "\/storage\/favs\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/storage\/favs\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 1638,
+		"oA": 0,
+		"oAP": "\/storage\/favs\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/storage\/favs\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/storage\/favs\/favicon.ico",
+		"oF": 0
+		},
+	"\/storage\/favs\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 6794,
+		"oA": 0,
+		"oAP": "\/storage\/favs\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/storage\/favs\/site.webmanifest": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/storage\/favs\/site.webmanifest",
+		"oF": 0
+		},
+	"\/storage\/imags\/flags\/germany-flag-icon-32.png": {
+		"ft": 32768,
+		"iS": 973,
+		"oA": 0,
+		"oAP": "\/storage\/imags\/flags\/germany-flag-icon-32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/storage\/imags\/flags\/slovakia-flag-icon-32.png": {
+		"ft": 32768,
+		"iS": 1478,
+		"oA": 0,
+		"oAP": "\/storage\/imags\/flags\/slovakia-flag-icon-32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/storage\/imags\/flags\/spain-flag-icon-32.png": {
+		"ft": 32768,
+		"iS": 1289,
+		"oA": 0,
+		"oAP": "\/storage\/imags\/flags\/spain-flag-icon-32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/storage\/imags\/flags\/united-kingdom-flag-icon-32.png": {
+		"ft": 32768,
+		"iS": 2083,
+		"oA": 0,
+		"oAP": "\/storage\/imags\/flags\/united-kingdom-flag-icon-32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/storage\/imags\/foot-pre.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -496,6 +627,57 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/storage\/imags\/mask-image.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/storage\/imags\/mask-image.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/storage\/imags\/mask-promo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/storage\/imags\/mask-promo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/storage\/imags\/mask-promo2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/storage\/imags\/mask-promo2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/storage\/imags\/mask-promo3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/storage\/imags\/mask-promo3.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/storage\/imags\/mask.png": {
+		"ft": 32768,
+		"iS": 75467,
+		"oA": 0,
+		"oAP": "\/storage\/imags\/mask.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/storage\/imags\/nano-coat-system.png": {
 		"ft": 32768,
 		"iS": 40083,
@@ -505,6 +687,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/storage\/imags\/slider1.jpeg": {
+		"ft": 16384,
+		"iS": 86500,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/storage\/imags\/slider1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/storage\/logo-white.svg": {

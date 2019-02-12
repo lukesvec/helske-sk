@@ -135,3 +135,4 @@ $(window).on('load', function () {
 /// ****
 // PROBLEM RESENI FILTER ALT
 $(".chosen-select").chosen();
+

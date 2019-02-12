@@ -32,16 +32,20 @@
 			</ul>
 		</div>
 		
+		
 		<div class="row">
 			<div class="col-12 col-sm-4 menu-open-select">
 				<div class="title">Language</div>
-				<form>
-					<select>
-						<option>Slovak</option>
-						<option>Czech</option>
-					</select>
-					<span class="mdi mdi-chevron-down icon"></span>
-				</form>
+				<div class="dropdown dropdown-language">
+		            <button class="btn btn-light dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+		                <img src="/storage/imags/flags/slovakia-flag-icon-32.png" alt="SK"> Slovakia
+		            </button>
+		            <div class="dropdown-menu dropdown-menu-animated" aria-labelledby="" x-placement="bottom-start">
+		                <a class="dropdown-item" href="#"><img src="/storage/imags/flags/germany-flag-icon-32.png" alt="SK"> Germany</a>
+		                <a class="dropdown-item" href="#"><img src="/storage/imags/flags/united-kingdom-flag-icon-32.png" alt="SK"> English</a>
+		                <a class="dropdown-item" href="#"><img src="/storage/imags/flags/spain-flag-icon-32.png" alt="SK"> Espanol</a>
+		            </div>
+		        </div>
 			</div>
 		</div>
 	</div>

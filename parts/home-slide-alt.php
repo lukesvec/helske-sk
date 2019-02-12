@@ -6,7 +6,8 @@
 		        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam venenatis tempor ante, 
 pharetra consequat erat tempus sed. Integer mattis erat vel sem tempus, at cursus ex tempus.</p>
 	        </div>
-			<img src="/storage/imags/hero1.png" alt="homepage-promo-big" class="hero-background">
+			<img src="/storage/imags/slider1.jpeg" alt="homepage-promo-big" class="hero-background">
+			<img src="/storage/imags/mask.png" alt="homepage-promo-mask" class="hero-background-mask">
         </div>
     </div>
 </div>

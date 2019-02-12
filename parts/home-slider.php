@@ -12,7 +12,8 @@ pharetra consequat erat tempus sed. Integer mattis erat vel sem tempus, at cursu
 				<a href="#"><span class="mdi mdi-twitter"></span></a>
 				<a href="#"><span class="mdi mdi-linkedin"></span></a>
 	        </div>
-			<img src="/storage/imags/hero1.png" alt="homepage-promo-big" class="hero-background">
+			<img src="/storage/imags/slider1.jpeg" alt="homepage-promo-big" class="hero-background">
+			<img src="/storage/imags/mask.png" alt="homepage-promo-mask" class="hero-background-mask">
         </div>
     </div>
 </div>
