@@ -9,10 +9,10 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
         <!-- APP FAVICON -->
-		<link rel="apple-touch-icon" sizes="180x180" href="/tis/favs/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="/tis/favs/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="/tis/favs/favicon-16x16.png">
-		<link rel="manifest" href="/tis/favs/site.webmanifest">
+		<link rel="apple-touch-icon" sizes="180x180" href="/storage/favs/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/storage/favs/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/storage/favs/favicon-16x16.png">
+		<link rel="manifest" href="/storage/favs/site.webmanifest">
 		<meta name="msapplication-TileColor" content="#da532c">
 		<meta name="theme-color" content="#ffffff">
 
