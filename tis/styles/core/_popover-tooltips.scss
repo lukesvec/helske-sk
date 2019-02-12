@@ -23,25 +23,33 @@
 
   .tooltip-inner {
     padding: 4px 10px;
-    border-radius: 2px;
-    background-color: $dark;
+    border-radius: 0px;
+    background-color: $custom;
+    color: white;
+    font-weight: 600;
+	font-size: 12px;
   }
 }
 
+
+.bs-tooltip-auto[x-placement^=top] .arrow::before, .bs-tooltip-top .arrow::before {
+	border-top-color: $custom;
+}
+
 .tooltip.left .tooltip-arrow {
-  border-left-color: $dark;
+  border-left-color: $custom;
 }
 
 .tooltip.top .tooltip-arrow {
-  border-top-color: $dark;
+  border-top-color: $custom;
 }
 
 .tooltip.bottom .tooltip-arrow {
-  border-bottom-color: $dark;
+  border-bottom-color: $custom;
 }
 
 .tooltip.right .tooltip-arrow {
-  border-right-color: $dark;
+  border-right-color: $custom;
 }
 
 /* Tooltpster */

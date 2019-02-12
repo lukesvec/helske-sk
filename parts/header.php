@@ -18,9 +18,12 @@
         <link href="/tis/styles/core-framework.css" rel="stylesheet" type="text/css" />
 
 
-		<!-- HOMEPAGE STYLES -->
+		<!-- PLUGINS STYLES -->
 		<link rel="stylesheet" href="/tis/plugs/swiper-4.4.6/dist/css/swiper.min.css">
 		<link rel="stylesheet" href="/tis/plugs/custombox/css/custombox.min.css">
+		<link rel="stylesheet" href="/tis/plugs/magnific-popup/css/magnific-popup.css"/>
+		<link rel="stylesheet" href="/tis/plugs/chosen_v1.8.7/chosen.min.css"/>
+		
 		<link rel="stylesheet" href="/tis/styles/custom.css">
 
 		<!-- BASE INCLUDS -->

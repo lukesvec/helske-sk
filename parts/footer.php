@@ -70,7 +70,11 @@
 		<!-- OTHER JSs -->
 		<script src="/tis/plugs/swiper-4.4.6/dist/js/swiper.min.js"></script>
 		<script src="/tis/plugs/custombox/js/custombox.min.js"></script>
-		<script src="/tis/javas/homepage.js"></script>
+		<script src="tis/plugs/isotope/js/imagesloaded.pkgd.min.js"></script>
+		<script type="text/javascript" src="/tis/plugs/isotope/js/isotope.pkgd.min.js"></script>
+        <script type="text/javascript" src="/tis/plugs/magnific-popup/js/jquery.magnific-popup.min.js"></script>
+        <script src="/tis/plugs/chosen_v1.8.7/chosen.jquery.min.js"></script>
+		<script src="/tis/javas/custom.js"></script>
 		
 		
 	</body>

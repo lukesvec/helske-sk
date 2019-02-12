@@ -9,6 +9,20 @@
 	],
 "creatorBuild": "26667",
 "files": {
+	"\/_preview.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_preview.php",
+		"oF": 0
+		},
+	"\/aplikacni-postup.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/aplikacni-postup.php",
+		"oF": 0
+		},
 	"\/hlavni-stranka.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -21,6 +35,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/index.php",
+		"oF": 0
+		},
+	"\/kontakt.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/kontakt.php",
 		"oF": 0
 		},
 	"\/nano-coat-system.php": {
@@ -65,11 +86,53 @@
 		"oAP": "\/parts\/element-advantage.php",
 		"oF": 0
 		},
+	"\/parts\/element-bootstrap.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-bootstrap.php",
+		"oF": 0
+		},
 	"\/parts\/element-box-double.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/element-box-double.php",
+		"oF": 0
+		},
+	"\/parts\/element-box-triple-aplikace.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-box-triple-aplikace.php",
+		"oF": 0
+		},
+	"\/parts\/element-box-triple.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-box-triple.php",
+		"oF": 0
+		},
+	"\/parts\/element-faq.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-faq.php",
+		"oF": 0
+		},
+	"\/parts\/element-gallery.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-gallery.php",
+		"oF": 0
+		},
+	"\/parts\/element-list-video.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-list-video.php",
 		"oF": 0
 		},
 	"\/parts\/element-quote-video.php": {
@@ -98,6 +161,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/element-section-basic.php",
+		"oF": 0
+		},
+	"\/parts\/element-section-cta.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-section-cta.php",
 		"oF": 0
 		},
 	"\/parts\/element-section-list-product.php": {
@@ -135,6 +205,13 @@
 		"oAP": "\/parts\/element-typography.php",
 		"oF": 0
 		},
+	"\/parts\/element-video.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/element-video.php",
+		"oF": 0
+		},
 	"\/parts\/element-whitespace.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -147,6 +224,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/footer.php",
+		"oF": 0
+		},
+	"\/parts\/header-navigation-home-alt.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/header-navigation-home-alt.php",
 		"oF": 0
 		},
 	"\/parts\/header-navigation-home.php": {
@@ -177,11 +261,46 @@
 		"oAP": "\/parts\/header.php",
 		"oF": 0
 		},
+	"\/parts\/home-slide-alt.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/home-slide-alt.php",
+		"oF": 0
+		},
 	"\/parts\/home-slider.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/parts\/home-slider.php",
+		"oF": 0
+		},
+	"\/parts\/page-contact.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/page-contact.php",
+		"oF": 0
+		},
+	"\/parts\/page-problem-vypis.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/page-problem-vypis.php",
+		"oF": 0
+		},
+	"\/parts\/page-problem.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/page-problem.php",
+		"oF": 0
+		},
+	"\/parts\/page-product.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/parts\/page-product.php",
 		"oF": 0
 		},
 	"\/podminky.php": {
@@ -196,6 +315,27 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/pravni-upozorneni.php",
+		"oF": 0
+		},
+	"\/problem-reseni-detail.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/problem-reseni-detail.php",
+		"oF": 0
+		},
+	"\/problem-reseni-vypis.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/problem-reseni-vypis.php",
+		"oF": 0
+		},
+	"\/produkt-detail.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/produkt-detail.php",
 		"oF": 0
 		},
 	"\/storage\/imags\/foot-pre.svg": {
@@ -356,6 +496,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/storage\/imags\/nano-coat-system.png": {
+		"ft": 32768,
+		"iS": 40083,
+		"oA": 0,
+		"oAP": "\/storage\/imags\/nano-coat-system.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/storage\/logo-white.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -376,11 +527,25 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/textova-stranka.php": {
+	"\/testimonial-card.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/textova-stranka.php",
+		"oAP": "\/testimonial-card.php",
+		"oF": 0
+		},
+	"\/testimonial-photo.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/testimonial-photo.php",
+		"oF": 0
+		},
+	"\/testimonial-video.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/testimonial-video.php",
 		"oF": 0
 		},
 	"\/tis\/iconics\/font-awesome\/fonts\/fontawesome-webfont.eot": {
@@ -1444,6 +1609,13 @@
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
+		},
+	"\/ui-prvky.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/ui-prvky.php",
+		"oF": 0
 		}
 	},
 "hooks": [

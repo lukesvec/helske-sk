@@ -167,6 +167,9 @@
 	color: white;
 	position: relative;
 	margin-top: 150px;
+	ul li:before {
+		display: none;
+	}
 	.footer-pre-img {
 		width: 100%;
 		height: auto;
@@ -246,7 +249,7 @@
 	    transition: $animate;
 	    &:hover {
 		    background: white;
-		    color: white;
+		    color: $custom;
 	    }
     }
 }
@@ -254,4 +257,13 @@
 	display: none;
 	width: 100%;
 	text-align: center;
+}
+
+@media (max-width: 991px) {
+	.menu-container ul, .menu-open-select {
+		margin-top: 25px;
+	}
+	.main-header.alt {
+		background-position-x: -100px;
+	}
 }

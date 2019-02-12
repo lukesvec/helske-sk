@@ -69,6 +69,7 @@ p {
 }
 
 a {
+  color: $custom;
   &:hover {
     outline: 0;
     text-decoration: none;
@@ -129,4 +130,19 @@ a {
   }
 }
 
+
+.order-bullet-brand {
+  list-style: none;
+}
+.order-bullet-brand li::before {
+  content: "\2022";
+  color: $custom; 
+  font-weight: bold; 
+  display: inline-block; 
+  width: 15px; 
+  font-size: 24px;
+  position: relative;
+  top:3px;
+  margin-left: -15px; 
+}
 

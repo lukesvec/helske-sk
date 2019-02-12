@@ -26,7 +26,7 @@
 			$fileList = glob("*");
 			$counter = 1;
 			foreach($fileList as $filename){
-			    if(is_file($filename) and $filename<>"config.codekit3" and $filename<>"index.php"){
+			    if(is_file($filename) and $filename<>"config.codekit3" and $filename<>"index.php" and $filename<>"_preview.php"){
 				    echo '
 				    <tr>
 		                <th scope="row">'.$counter.'</th>
@@ -71,7 +71,7 @@
 				    <tr>
 		                <th scope="row">'.$counter.'</th>
 		                <td>'.$filename.'</td>
-		                <td><a href="preview.php?template='.$filename.'">Zobrazit prvek</a></td>
+		                <td><a href="_preview.php?template='.$filename.'">Zobrazit prvek</a></td>
 		            </tr>
 				    ';
 				    $counter++;
