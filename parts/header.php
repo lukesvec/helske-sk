@@ -2,14 +2,20 @@
 <html lang="sk">
     <head>
         <meta charset="utf-8" />
-        <title>HES Frontend - Homepage</title>
+        <title>HELSKE Frontend</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta content="[DESC]" name="description" />
         <meta content="Lukáš Švec, www.tommyart.cz" name="author" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
         <!-- APP FAVICON -->
-        <link rel="shortcut icon" href="/tis/favs/icon.ico">
+		<link rel="apple-touch-icon" sizes="180x180" href="/tis/favs/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/tis/favs/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/tis/favs/favicon-16x16.png">
+		<link rel="manifest" href="/tis/favs/site.webmanifest">
+		<meta name="msapplication-TileColor" content="#da532c">
+		<meta name="theme-color" content="#ffffff">
+
 
         <!-- CORE APP STYLES -->
         <link href="/tis/plugs/bootstrap-v4.1.3/bootstrap.min.css" rel="stylesheet" type="text/css" />
