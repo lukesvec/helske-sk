@@ -1,7 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1920.809" height="222.03" viewBox="0 0 1920.809 222.03">
-  <g id="Group_619" data-name="Group 619" transform="translate(0 -5955.554)">
-    <path id="Path_55" data-name="Path 55" d="M0,92.423s195.756-124.2,567.945-124.2,627.963,87.088,965.977,103.55,386.078-27,386.078-27v92.03H0Z" transform="translate(0 6040.776)" fill="#00408e"/>
-    <path id="Path_56" data-name="Path 56" d="M0,.516S324.793-44.45,696.824-44.45,1182.331-.862,1488.125.516,1920-38.937,1920-38.937" transform="translate(0.5 6041)" fill="none" stroke="#00408e" stroke-width="2"/>
-    <path id="Path_57" data-name="Path 57" d="M0,2.761s206.992-26.1,491.506-2.972S768.892,79,1057.373,79C1718.554,79,1920-23,1920-23" transform="translate(0.5 5979)" fill="none" stroke="#00408e" stroke-width="1"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1900px" height="222px" viewBox="0 0 1900 222" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="foot-pre" transform="translate(-11.000000, 6.000000)">
+            <path d="M0,177.645 C0,177.645 195.756,53.445 567.945,53.445 C940.134,53.445 1195.908,140.533 1533.922,156.995 C1871.936,173.457 1920,129.995 1920,129.995 L1920,222.025 L0,222.025 L0,177.645 Z" id="Path_55" fill="#00408E"></path>
+            <path d="M0.5,85.962 C0.5,85.962 325.293,40.996 697.324,40.996 C1069.355,40.996 1182.831,84.584 1488.625,85.962 C1794.419,87.34 1920.5,46.509 1920.5,46.509" id="Path_56" stroke="#00408E" stroke-width="2"></path>
+            <path d="M0.5,26.207 C0.5,26.207 207.492,0.107 492.006,23.235 C776.52,46.363 769.392,102.446 1057.873,102.446 C1719.054,102.446 1920.5,0.446 1920.5,0.446" id="Path_57" stroke="#00408E"></path>
+        </g>
+    </g>
 </svg>
