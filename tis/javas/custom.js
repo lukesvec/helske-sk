@@ -28,8 +28,19 @@ $(document).ready(function () {
 	var mySwiper = new Swiper ('.swiper-container', {
 	  loop: true,
 	  grabCursor: true,
-	  
 	})
+});
+
+// ******
+// BODY SLIDER
+var mySwiper = new Swiper('.swiper-body', {
+  loop: true,
+  mousewheel: true,
+  pagination: {
+    el: '.swiper-pagination',
+    type: 'bullets',
+    clickable: true
+  },
 });
 
 

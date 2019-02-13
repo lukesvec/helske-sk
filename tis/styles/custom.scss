@@ -1,8 +1,50 @@
 @import "core/variables";
 
+.swiper-body {
+	width: 100%;
+	height: 450px;
+	overflow: hidden;
+	.swiper-slide {
+	    height: 100%;
+	    width: 100%;
+	    position: relative;
+	    p {
+	   		font-size: 16px;
+		}
+		h4 {
+	    	line-height: 100%;
+		}
+	}
+}
+.swiper-pagination-bullet {
+	width: 15px;
+	height: 15px;
+	background: transparent;
+	opacity: 1;
+	border: 2px solid $custom;
+}
+.swiper-pagination-bullet-active {
+	background: $custom;
+}
+.swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+	bottom: 35px;
+}
+
 .swiper-container {
     width: 100%;
     height: 850px;
+    &.auto {
+	    height: auto;
+    }
+    &.small {
+	    height: 450px;
+	    p {
+		    font-size: 16px;
+	    }
+	    h4 {
+		    line-height: 100%;
+	    }
+    }
     
     .swiper-slide {
 	    height: 100%;
@@ -10,7 +52,7 @@
 	    position: relative;
 	    background: #00408E;
 	    
-	    .container {
+	    .container.home {
 		    z-index: 100;
 		    position: relative;
 		    padding-top: 250px;
@@ -632,4 +674,17 @@ form.contact {
 			}
 		}
 	}
+}
+
+
+.image-box-description {
+	position: absolute;
+	top: 35px;
+	left: 25px;
+}
+
+.image-cover {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
 }
